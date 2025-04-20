@@ -1,5 +1,31 @@
 # React + Vite
 
+# ShopEasy - E-Commerce Website
+
+
+A modern e-commerce website built with React.js, React Router, and Context API for state management.
+
+## Features
+
+- Browse products by category
+- Product search and filtering
+- Shopping cart functionality
+- Checkout process with form validation
+- Responsive design for all devices
+- Product detail pages
+- Order confirmation
+
+## Tech Stack
+
+- React.js (Functional Components + Hooks)
+- React Router
+- Context API (State Management)
+- Custom CSS (No CSS Framework)
+- Vite (Build Tool)
+- Git & GitHub (Version Control)
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
