@@ -8,7 +8,7 @@ const Header = () => {
         <header className="header">
             <div className="container">
                 <div className="logo">
-                    <Link to="/">ShopEasy</Link>
+                    <Link to="/">RoBust</Link>
                 </div>
                 <nav className="main-nav">
                     <ul>
