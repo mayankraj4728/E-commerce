@@ -4,7 +4,7 @@ const Footer = () => {
             <div className="container">
                 <div className="footer-content">
                     <div className="footer-section">
-                        <h3>ShopEasy</h3>
+                        <h3>RoBust</h3>
                         <p>Your one-stop shop for all your needs.</p>
                     </div>
                     <div className="footer-section">
@@ -23,8 +23,8 @@ const Footer = () => {
                     </div>
                     <div className="footer-section">
                         <h3>Contact Us</h3>
-                        <p>Email: contact@shopeasy.com</p>
-                        <p>Phone: (123) 456-7890</p>
+                        <p>Email: contact@robust.com</p>
+                        <p>Phone: 01125532553</p>
                     </div>
                 </div>
                 <div className="footer-bottom">
