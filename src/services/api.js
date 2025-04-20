@@ -11,7 +11,7 @@ export const fetchProducts = async () => {
   }
 
   try {
-    const response = await fetch(`${API_BASE_URL}/products`);
+    const response = await fetch(`${API_BASE_URL}/products`); // Fixed: Use API_BASE_URL
     if (!response.ok) {
       throw new Error("Failed to fetch products");
     }
@@ -33,7 +33,7 @@ export const fetchProductById = async (id) => {
   }
 
   try {
-    const response = await fetch(`${API_BASE_URL}/products/${id}`);
+    const response = await fetch(`${API_BASE_URL}/products/${id}`); // Fixed: Use API_BASE_URL
     if (!response.ok) {
       throw new Error("Failed to fetch product");
     }
