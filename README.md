@@ -1,6 +1,6 @@
 # React + Vite
 
-# ShopEasy - E-Commerce Website
+# RoBust - E-Commerce Website
 
 
 A modern e-commerce website built with React.js, React Router, and Context API for state management.
